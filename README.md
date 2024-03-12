@@ -1,3 +1,3 @@
 # Korine-Keira
  ROBOT ARM
-![unnamed (7) kk](https://github.com/nwashin59/Korine-Keira/assets/75768362/915f36ce-5350-4bd3-8388-32bfdcc19912)
+![unnamed (8)kk](https://github.com/nwashin59/Korine-Keira/assets/75768362/cb4a9108-c4b7-4103-ae4d-7fde4741e4d8)
