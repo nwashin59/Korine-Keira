@@ -13,5 +13,5 @@ April: Had a lot going on towards the end of the month.
 May: starting to get back into the swing of things and coming to class.
 
 march 5: added the screws to the robot arm, made sure that the pipe goes up and down before added the thing that are listed in numbers. 
-march 5: Before adding the 12 wires here is the plane picture of the robot arm. 
+march 5: Before adding the base and the rest of the robot arm here is the plane picture of the robot arm. 
 ![Screenshot 2024-05-29 1 59 54 PM](https://github.com/nwashin59/Korine-Keira/assets/75768362/080a58ac-6f16-4f86-a2e3-bb5d045e886c) 
