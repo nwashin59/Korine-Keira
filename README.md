@@ -15,9 +15,22 @@ May: starting to get back into the swing of things and coming to class.
 march 5: added the screws to the robot arm, made sure that the pipe goes up and down before added the thing that are listed in numbers. 
 march 5: Before adding the base and the rest of the robot arm here is the plane picture of the robot arm. 
 ![Screenshot 2024-05-29 1 59 54 PM](https://github.com/nwashin59/Korine-Keira/assets/75768362/080a58ac-6f16-4f86-a2e3-bb5d045e886c) 
-# wiring
+# Wiring
 ![image_50365441](https://github.com/nwashin59/Korine-Keira/assets/75768362/424694c5-93c0-47e2-b634-a23f8fd2a4cc)
-# reflection 
+
+# Robot Arm
+![Screenshot 2024-05-30 6 32 12 PM](https://github.com/nwashin59/Korine-Keira/assets/75768362/4bed280c-f6f5-414f-9681-f6c2f6b8fd46)
+![Screenshot 2024-05-30 6 31 42 PM](https://github.com/nwashin59/Korine-Keira/assets/75768362/25a7bb68-5dd1-4531-ac45-a432627bbca8)
+![Screenshot 2024-05-30 6 30 48 PM](https://github.com/nwashin59/Korine-Keira/assets/75768362/1be0bccf-7d2e-4757-87cc-870356ed5d9a)
+![Screenshot 2024-05-30 6 31 07 PM](https://github.com/nwashin59/Korine-Keira/assets/75768362/ae7e4707-e2ef-41fa-91f8-cf8b0744195f)
+
+
+
+
+
+
+
+# Reflection 
 
 When I look back at the when i started building my robot arm, I realize it's been a mix of challenges and getting it done. The phase of getting it done, which I tackled with Keira, was really interesting. We had to dive deep into designs and coding structures, which was both exciting and a bit difficult. this project is about how are we going to get the long pole in the middle to move by using four servos. by that happening we are using a button so it can go up and down without using our hands. the metro & breadboard really put a lot of power onto the pole thingy.  Looking at the completed robot arm (In onshape) , I'm proud of what we've accomplished even tho we couldn’t get it done in time to print out.
 
