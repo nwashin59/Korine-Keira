@@ -23,14 +23,10 @@ march 5: Before adding the base and the rest of the robot arm here is the plane 
 ![Screenshot 2024-05-30 6 31 42 PM](https://github.com/nwashin59/Korine-Keira/assets/75768362/25a7bb68-5dd1-4531-ac45-a432627bbca8)
 ![Screenshot 2024-05-30 6 30 48 PM](https://github.com/nwashin59/Korine-Keira/assets/75768362/1be0bccf-7d2e-4757-87cc-870356ed5d9a)
 ![Screenshot 2024-05-30 6 31 07 PM](https://github.com/nwashin59/Korine-Keira/assets/75768362/ae7e4707-e2ef-41fa-91f8-cf8b0744195f)
-
-
-
-
-
-
+# description
+I was tasked with creating a robot arm that can move up and down using a button. It's equipped with four servos that control its movement. This arm is designed for visual demonstration, so it's best to observe its operation without the need for hands-on interaction.
 
 # Reflection 
 
-When I look back at the when i started building my robot arm, I realize it's been a mix of challenges and getting it done. The phase of getting it done, which I tackled with Keira, was really interesting. We had to dive deep into designs and coding structures, which was both exciting and a bit difficult. this project is about how are we going to get the long pole in the middle to move by using four servos. by that happening we are using a button so it can go up and down without using our hands. the metro & breadboard really put a lot of power onto the pole thingy.  Looking at the completed robot arm (In onshape) , I'm proud of what we've accomplished even tho we couldn’t get it done in time to print out.
+When I look back at when I started building my robot arm, I realize it's been a mix of challenges getting it done. The phases Keira and I had to tackle were very interesting we had to dive deep into designs and coding structures, which was both exciting and a bit difficult. This project is about how are we going to get the long pole in the middle to move by using four servos. In order to complete this task we are using a button to control the up and down motion without using our hands. The metro & breadboard really put a lot of power onto the pole. Looking at the completed robot arm (In onshape), I'm proud of what we've accomplished even though we couldn’t get it done in time to print out.
 
