@@ -27,13 +27,15 @@ march 5: Before adding the base and the rest of the robot arm here is the plane 
 ![Screenshot 2024-05-30 6 31 07 PM](https://github.com/nwashin59/Korine-Keira/assets/75768362/ae7e4707-e2ef-41fa-91f8-cf8b0744195f)
 # Description
 
-Korine- I was assigned with creating a robot arm that can move up and down using a button. It's equipped with four servos that control its movement. This arm is designed for visual demonstration, so it's best to observe its operation without the need for hands-on interaction.
+Korine- I was assigned with creating the robot arm that can move up and down using a button. It's equipped with four servos that control its movement. This arm is designed for visual demonstration, so it's best to observe its operation without the need for 
+hands on interaction.
 
 Keira- 
 
 # Reflection 
 
-When I look back at when I started building my robot arm, I realize it's been a mix of challenges getting it done. The phases Keira and I had to tackle were very interesting we had to dive deep into designs and coding structures, which was both exciting and a bit difficult. This project is about how are we going to get the long pole in the middle to move by using four servos. In order to complete this task we are using a button to control the up and down motion without using our hands. The metro & breadboard really put a lot of power into the pole.  Looking at the completed robot arm (In onshape), I'm proud of what we've accomplished even though we couldn’t get it done in time to print out. When it came to the wiring part, I had my hands full with hooking up the 4 servos, one big battery pack, the Metro board, three breadboards, and a button. It was like a puzzle, figuring out where each wire was supposed to go and making sure everything was connected just right for the robot arm to work smoothly. Even though we weren't able to finish the robot arm to see how it fully works, we managed to complete the CAD and wiring, which was very exciting.
+When I look back at when I started building my robot arm, I realize it's been a mix of challenges getting it done. The phases Keira and I had to tackle were very interesting we had to dive deep into designs and coding structures, which was both exciting and a bit difficult. This project is about how are we going to get the long pole in the middle to move by using four servos. In order to complete this task we are using a button to control the up and down motion without using our hands. The metro & breadboard really put a lot of power into the pole.  Looking at the completed robot arm (In onshape), I'm proud of what we've accomplished even though we couldn’t get it done in time to print out. 
+Keira- When it came to the wiring part, I had my hands full with hooking up the 4 servos, one big battery pack, the Metro board, three breadboards, and a button. It was like a puzzle, figuring out where each wire was supposed to go and making sure everything was connected just right for the robot arm to work smoothly. Even though we weren't able to finish the robot arm to see how it fully works, we managed to complete the CAD and wiring, which was very exciting.
 
 
 
