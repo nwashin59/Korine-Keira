@@ -19,7 +19,82 @@ march 5: Before adding the base and the rest of the robot arm here is the plane 
 ![image_50365441](https://github.com/nwashin59/Korine-Keira/assets/75768362/424694c5-93c0-47e2-b634-a23f8fd2a4cc)
 
 # Code 
+import time
+import board
+import pwmio
+from digitalio import DigitalInOut, Direction, Pull
+from adafruit_motor import servo
+import asyncio
+import keypad
+import digitalio
+from adafruit_motor import StepperMotor 
 
+# Set up the digital pins used for the four wires of the stepper motor. 
+coils = (
+    digitalio.DigitalInOut(board.D9),   # A1
+    digitalio.DigitalInOut(board.D10),  # A2
+    digitalio.DigitalInOut(board.D11),  # B1
+    digitalio.DigitalInOut(board.D12),  # B2
+)
+
+# Sets each of the digital pins as an output.
+for coil in coils:
+    coil.direction = digitalio.Direction.OUTPUT
+
+# Creates an instance of the stepper motor so you can send commands to it (using the Adafruit Motor library). 
+motor = stepper.StepperMotor(coils[0], coils[1], coils[2], coils[3], microsteps=None)
+
+motor.onestep()
+
+motor.onestep(direction=stepper.BACKWARD)
+motor.onestep(direction=stepper.FORWARD)
+
+style=stepper.DOUBLE
+       
+
+
+# create a PWMOut object on Pin A2.
+pwm = pwmio.PWMOut(board.D13, duty_cycle=2 ** 15, frequency=50)# pin for servo 
+pwm2 = pwmio.PWMOut(board.D8, duty_cycle=2 ** 15, frequency=50)
+
+# Create a servo object, my_servo.
+my_servo1 = servo.Servo(pwm)
+my_servo2 = servo.Servo(pwm2)# names the servo pwm 
+
+
+while True:
+    for step in range(STEPS):
+        motor.onestep(direction=stepper.BACKWARD, style=stepper.DOUBLE)# runs the stepper motor
+        time.sleep(DELAY)
+    
+    for angle in range(0, 180, 5):  # 0 - 180 degrees, 5 degrees at a time.
+        my_servo1.angle = angle
+        my_servo2.angle = angle# tells what servo to move 
+         my_servo3.angle
+          my_servo4.angle
+        time.sleep(DELAY)
+   
+    for step in range(STEPS):
+        motor.onestep(style=stepper.DOUBLE)
+        time.sleep(DELAY)
+    for angle in range(0, 180, 5):  # 0 - 180 degrees, 5 degrees at a time.
+        my_servo1.angle = angle
+        my_servo2.angle = angle
+         my_servo3.angle
+          my_servo4.angle
+        time.sleep(DELAY)
+
+    for step in range(STEPS):
+        motor.onestep(direction=stepper.BACKWARD, style=stepper.DOUBLE)
+        time.sleep(DELAY)
+            
+    for angle in range(0, 180, 5):  # 0 - 180 degrees, 5 degrees at a time.
+        my_servo1.angle = angle
+        my_servo2.angle = angle
+         my_servo3.angle
+          my_servo4.angle
+        time.sleep(DELAY)
+ 
 # Robot Arm
 ![Screenshot 2024-05-30 6 32 12 PM](https://github.com/nwashin59/Korine-Keira/assets/75768362/4bed280c-f6f5-414f-9681-f6c2f6b8fd46)
 ![Screenshot 2024-05-30 6 31 42 PM](https://github.com/nwashin59/Korine-Keira/assets/75768362/25a7bb68-5dd1-4531-ac45-a432627bbca8)
