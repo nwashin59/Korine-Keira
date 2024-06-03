@@ -27,10 +27,11 @@ march 5: Before adding the base and the rest of the robot arm here is the plane 
 ![Screenshot 2024-05-30 6 31 07 PM](https://github.com/nwashin59/Korine-Keira/assets/75768362/ae7e4707-e2ef-41fa-91f8-cf8b0744195f)
 # Description
 
-Korine- I was assigned with creating the robot arm that can move up and down using a button. It's equipped with four servos that control its movement. This arm is designed for visual demonstration, so it's best to observe its operation without the need for 
-hands on interaction.
+Korine- I was assigned to create a robot arm that can move up and down using a button. It's equipped with four servos that control its movement. This arm is designed for visual demonstration, so it's best to observe its operation without the need for 
+hands-on interaction.
 
-Keira- I was assigned to code and wiring 
+Keira- I was assigned to code and wiring I first started off with trying to find an idea for a code and realized it was taking up most of my time. but, I ended up improvising by using a classmate's code and tweaking it to make it my own. Then when I started wiring I looked up a wiring diagram but made a power rail on my own.
+
 
 # Reflection 
 
