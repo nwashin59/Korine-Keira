@@ -30,7 +30,7 @@ march 5: Before adding the base and the rest of the robot arm here is the plane 
 Korine- I was assigned with creating the robot arm that can move up and down using a button. It's equipped with four servos that control its movement. This arm is designed for visual demonstration, so it's best to observe its operation without the need for 
 hands on interaction.
 
-Keira- 
+Keira- I was assigned to code and wiring 
 
 # Reflection 
 
@@ -40,6 +40,7 @@ Keira- When it came to the wiring part, I had my hands full with hooking up the 
 
 
 # Part Link 
+https://cvilleschools.onshape.com/documents/596a87a0916aa92c54febbfc/w/d19d9f3d74cc915f0fcf5605/e/8b970db120f13409126678fc?renderMode=0&uiState=665ddb188fb9501bc72f2b2f
 
 
 
